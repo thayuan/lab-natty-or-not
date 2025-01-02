@@ -2,50 +2,36 @@
 
 ## 🚀 Introdução
 
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+Olá pessoal, aqui é o Thayuan!! Abaixo, segue o meu primeiro projeto para treinar meus conhecimentos na utilização de ferramentas de IA generativas.
 
 ### Template
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
+Imagem relacionada a uma equipe de auditoria de TI de um banco público
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Aqui será criada uma imagem contendo integrantes com etinias diversas de uma auditoria interna de TI de um grande banco público.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Para gerar a imagem, utilizei a ferramenda denominada de Deep Dream Generator.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Para criar a imagem, descrevi o seguinte contexto:
+"Crie uma imagem de uma equipe de auditoria interna de TI de um banco público, em que essa equipe é composta por uma pessoa negra, por um japonês, por uma pessoa branca, por um índio e por um brasileiro. Essa equipe possui é de diversas idades."
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
+![image](https://github.com/user-attachments/assets/931ae60a-be5b-43f3-a2c1-6b3de412c17e)
+
+
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Inicialmente, o desafio de criar algo utilizando IA é um pouco complicado, tem muitos sites em inglês, fato que inicialmente nos amedronta um pouco. Mas com a familiarização e prática, descobrimos que não se trata de uma atividade de outro mundo e que pode contribuir e muito para nosso aprendizado! Foi uma excelente experiência.
 
 ## Links Interessantes
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Aqui é o endereço eletrônico utilizado para a geração da imagem:
+https://deepdreamgenerator.com/processing/19533801?ut=PGcMTCZfRNU9
